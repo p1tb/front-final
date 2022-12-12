@@ -1,29 +1,23 @@
-# vue-realchat
+# Frontend Final - Chat Web Application
 
-This template should help get you started developing with Vue 3 in Vite.
+## Project description
+Realchat is a realtime-database Vue chat application on Firebase.
 
-## Recommended IDE Setup
+## Installing and launching the application:
+Clone repository:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+    git clone https://github.com/p1tb/front-final.git
 
-## Customize configuration
+Install dependencies:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+    npm i
 
-## Project Setup
+Launch the application:
 
-```sh
-npm install
-```
+    npm run dev
+    
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Screenshots:
+[![chat](https://i.imgur.com/dNeSK1O.png)](https://p1tb.github.io/front-final/)
+[![chat](https://i.imgur.com/ZB64dgE.png)](https://p1tb.github.io/front-final/)
+[![chat](https://i.imgur.com/OWvneUr.png)](https://p1tb.github.io/front-final/)
